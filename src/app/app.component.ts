@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'some_where_cinema_angular_18_feix0033';
+  title = 'test';
 }
